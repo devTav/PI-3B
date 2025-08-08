@@ -1,4 +1,4 @@
-# TeoriaGrafos — Projeto Integrador 3B
+# Projeto Integrador 3B
 
 Repositório do projeto acadêmico desenvolvido para a disciplina **Projeto Integrador 3B**, com foco na aplicação prática de conceitos de **Teoria dos Grafos**.
 
