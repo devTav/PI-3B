@@ -4,8 +4,6 @@ Repositório do projeto acadêmico desenvolvido para a disciplina **Projeto Inte
 
 > O escopo e as funcionalidades do projeto serão definidos ao longo do desenvolvimento.
 
-
-
 ## 👥 Membros do grupo
 - [Gustavo Faria](https://github.com/devTav)
 - [Lucas Siqueira](https://github.com/l-siqueira)
@@ -14,7 +12,10 @@ Repositório do projeto acadêmico desenvolvido para a disciplina **Projeto Inte
 - [Matheus Turturro](https://github.com/Matheusturturro)
 - [Nikolas Silva](https://github.com/nikolassilvaa)
 
+## 👨‍🏫 Professor orientador
+- [Alberto Torres](https://github.com/betotorres)
+
 ## 📌 Estrutura inicial
 - **/docs** — Documentos e anotações do projeto  
 - **/src** — Código-fonte (quando iniciado)  
- 
+
